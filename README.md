@@ -201,7 +201,7 @@ GitHub:
 https://github.com/DivyanshuGautam91
 
 LinkedIn:
-(Add Your LinkedIn Profile)
+(https://www.linkedin.com/in/divyanshu-gautam-a48844298/)
 
 ---
 
