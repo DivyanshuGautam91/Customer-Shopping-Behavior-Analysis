@@ -1,4 +1,5 @@
 # 🛍️ Customer Shopping Behavior Analysis
+> 📊 End-to-End Data Analytics Project | Python • PostgreSQL • SQL • Power BI
 
 <p align="center">
 
