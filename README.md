@@ -120,17 +120,16 @@ The cleaned dataset was imported into PostgreSQL for business analysis.
 Several SQL queries were written to answer important business questions.
 
 ### SQL Analysis Includes
-
-- Revenue by Gender
-- Revenue by Age Group
-- Revenue by Category
-- Customer Segmentation
-- Shipping Analysis
-- Discount Analysis
-- Repeat Customer Analysis
-- Subscriber Analysis
-- Product Performance
+- Revenue Analysis by Category
+- Revenue Analysis by Gender
+- Revenue Analysis by Age Group
+- Customer Purchase Behaviour Analysis
+- Product Performance Analysis
+- Discount Effectiveness Analysis
+- Shipping Preference Analysis
+- Subscription Status Analysis
 - Top Rated Products
+- Repeat Purchase Analysis
 
 ---
 
@@ -161,15 +160,19 @@ The dashboard provides an interactive overview of customer shopping behavior.
 
 ---
 
-# 📈 Key Business Insights
+## 📈 Key Business Insights
 
-- Clothing category generated the highest revenue.
-- Non-subscribers represent the majority of customers.
-- Young Adults contribute the largest share of sales.
-- Customers with higher review ratings tend to spend more.
-- Discount strategies significantly impact purchasing behavior.
-- Shipping preferences influence customer purchasing patterns.
+✔ Clothing generated the highest overall revenue.
 
+✔ Young Adult customers contributed the largest share of purchases.
+
+✔ Non-subscribers represented nearly three-fourths of the customer base.
+
+✔ Higher customer ratings were associated with increased purchase amounts.
+
+✔ Discount strategies influenced customer purchasing behaviour.
+
+✔ Shipping preferences affected overall sales performance.
 ---
 
 # 🚀 Future Improvements
@@ -193,15 +196,17 @@ The dashboard provides an interactive overview of customer shopping behavior.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-**Divyanshu Gautam**
+Divyanshu Gautam
 
-GitHub:
+📧 Email: gautamdivyanshu47@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/divyanshu-gautam-a48844298
+
+🌐 GitHub:
 https://github.com/DivyanshuGautam91
-
-LinkedIn:
-(https://www.linkedin.com/in/divyanshu-gautam-a48844298/)
 
 ---
 
